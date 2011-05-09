@@ -1,0 +1,9 @@
+This app was made by Pogodan(www.pogodan.com) as part of Culture Hack Scotland(www.culturehackscotland.com). It's written in MacRuby and displays a simple status bar icon with Interface Builder links to About/Quit. With horrifying inefficiency it reads in a giant CSV file and uses CoreLocation to calculate the events nearest to you, and dynamically adds them to the menu
+
+We're releasing the code because there's not a lot of MacRuby examples out there. Please, please do not take this code as any indication of a good way to build a production app. Feel free to reuse the code for any purpose, but I wouldn't recommend it
+
+by Pogodan, http://www.pogodan.com
+Dataset provided by The Skinny http://www.theskinny.co.uk
+Original code structure stolen from macruby-statusmenu by Thomas R. Koll: https://github.com/TomK32/macruby-statusmenu.git
+
+Dual-Licensed under GPL version 2 and WTFPL
